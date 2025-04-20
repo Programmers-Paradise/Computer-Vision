@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.pt
+*.h5
+logs/
+results/
+datasets/
